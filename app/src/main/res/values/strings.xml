@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grocery App</string>
+    <string name="enter_item_name">Enter Item Name</string>
+    <string name="enter_item_quantity">Enter Item Quantity</string>
+    <string name="enter_the_recipe">Enter the Recipe</string>
+    <string name="button">Button</string>
+    <string name="note">Note</string>
+    <string name="quantity">quantity</string>
+    <string name="updated_at">Updated At</string>
+    <string name="enter_the_recipe_optional">Enter the Recipe (optional)</string>
+    <string name="cancel">Cancel</string>
+</resources>
