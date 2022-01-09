@@ -8,7 +8,8 @@ Usually Grocery Items that are to be shopped is written on a piece of paper and 
 
 The solution is our Grocery App, the app enable people to add the Grocery item which there are going to buy into the app along with the quantity of that item, they need. If a person is going to cook, using that item, the app have the feature to write the recipe, related to that item, there are buying. Once an item is created users have the option to edit and save, the name, quantity and recipe related to that item. If users want to delete an item, they can do it by tapping on the delete icon.
 
-Some screenshot of the app is provide in the pdf :
+
+A pdf of all the screenshot of the App is provided here:
 [ASJ_app_screenshot.pdf](https://github.com/Ajinkj/Android-Study-Jams/files/7834514/ASJ_app_screenshot.pdf)
 
 <b>Functionality & Concepts used : </b> 
