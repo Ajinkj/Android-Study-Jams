@@ -20,7 +20,7 @@ Some screenshot of the app is provide in the pdf :
   <li>  MVVM & Room Database: We used Room Database to store each item, in the local device and update & save the item. </li>
 
   
-  <b> Application Link & Future Scope :</b>
+  <b> Application Link & Future Scope :</b><br>
   
   Our Grocery App apk file downloadable link is provided here: [Click Here]( https://drive.google.com/file/d/1XLPFxE-D2fx2G9XTc3gdgrBjBLZzDgfq/view?usp=sharing )
   
