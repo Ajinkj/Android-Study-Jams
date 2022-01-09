@@ -18,9 +18,9 @@ Some screenshot of the app is provide in the pdf :
   <li>Simple & Easy Views Design : Use of familiar audience EditText with hints and interactive buttons made it easier for users to use the App. </li>
   <li> RecyclerView : To present the list of different items created by the users, we used the efficient recyclerview.</li>
   <li>  MVVM & Room Database: We used Room Database to store each item, in the local device and update & save the item. </li>
-
+<br>
   
-  <b> Application Link & Future Scope :</b><br>
+  <b> Application Link & Future Scope :</b>
   
   Our Grocery App apk file downloadable link is provided here: [Click Here]( https://drive.google.com/file/d/1XLPFxE-D2fx2G9XTc3gdgrBjBLZzDgfq/view?usp=sharing )
   
